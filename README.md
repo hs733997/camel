@@ -1,1 +1,2 @@
 # camel
+This project appears to be a Java application using Spring Boot and Gradle, named camel. It is managed with Git and hosted on GitHub. The repository is likely intended for building backend services or APIs, leveraging Spring Boot's features for rapid development and Gradle for dependency management and builds. You can include sections in your README such as project overview, setup instructions, build/run commands, and contribution guidelines.
